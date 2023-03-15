@@ -1,0 +1,16 @@
+C:\Users\QQ136\source\repos\conShape\conShape\bin\Debug\conShape.exe.config
+C:\Users\QQ136\source\repos\conShape\conShape\bin\Debug\conShape.exe
+C:\Users\QQ136\source\repos\conShape\conShape\bin\Debug\conShape.pdb
+C:\Users\QQ136\source\repos\conShape\conShape\obj\Debug\conShape.csproj.AssemblyReference.cache
+C:\Users\QQ136\source\repos\conShape\conShape\obj\Debug\conShape.csproj.SuggestedBindingRedirects.cache
+C:\Users\QQ136\source\repos\conShape\conShape\obj\Debug\conShape.csproj.CoreCompileInputs.cache
+C:\Users\QQ136\source\repos\conShape\conShape\obj\Debug\conShape.exe
+C:\Users\QQ136\source\repos\conShape\conShape\obj\Debug\conShape.pdb
+Z:\QQ136\conShape\conShape\bin\Debug\conShape.exe.config
+Z:\QQ136\conShape\conShape\bin\Debug\conShape.exe
+Z:\QQ136\conShape\conShape\bin\Debug\conShape.pdb
+Z:\QQ136\conShape\conShape\obj\Debug\conShape.csproj.AssemblyReference.cache
+Z:\QQ136\conShape\conShape\obj\Debug\conShape.csproj.SuggestedBindingRedirects.cache
+Z:\QQ136\conShape\conShape\obj\Debug\conShape.csproj.CoreCompileInputs.cache
+Z:\QQ136\conShape\conShape\obj\Debug\conShape.exe
+Z:\QQ136\conShape\conShape\obj\Debug\conShape.pdb
